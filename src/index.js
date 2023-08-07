@@ -6,7 +6,7 @@ import { BrowserRouter } from 'react-router-dom'
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter basename='/menu'>
+    <BrowserRouter basename='/Menu'>
     <App />
     </BrowserRouter>
   </React.StrictMode>,
